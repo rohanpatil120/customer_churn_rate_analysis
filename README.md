@@ -12,4 +12,4 @@ delivered a data-backed contract-migration retention strategy to reduce involunt
 • Revenue loss due to churn = 74 | CLTV Lost = 2,047
 • % Revenue loss = 18%
 - monthly vs annual churn = 55.6% vs 8.3%
-- 
+  
